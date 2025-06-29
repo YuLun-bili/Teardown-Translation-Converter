@@ -15,7 +15,7 @@ A simple tool to convert crowdin's CSV format localization files to Teardown's `
 > E.g.: Project name "My Project" -> path towards "My Project (translations)" folder, which have several folders named by language code (such as "en", "de", "es-ES") inside after unzipped
 
 > [!IMPORTANT]
-> Currently only supports CSV (tab/whitespace)
+> Currently only supports CSV (comma/tab/whitespace)
 
 ### Other
 
